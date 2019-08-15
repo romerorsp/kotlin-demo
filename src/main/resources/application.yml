@@ -1,0 +1,5 @@
+
+spring:
+  redis:
+    port: 6379
+    embedded: true
